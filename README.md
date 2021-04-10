@@ -8,7 +8,7 @@
 2. PHP : php7, laravel, functional programming, object oriented progrmming, IOC knowledge, DI knowledge, TDD programming, DDD programming, security programming
 3. golang : gin framework
 4. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, s3, athena, cloud front
-5. database : MySQL, Redis
+5. database : MySQL, Redis, SQLite
 
 
 <!---
