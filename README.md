@@ -1,18 +1,18 @@
 - 👋 Hi, I’m @N0FreeLunch
-- 👀 I’m interested in functional programming
+- 👀 I’m interested in Functional programming, Concurrency programming
 - 🌱 I’m currently learning Functional JS, functional ReactJS, Laravel, Golang, Agile software development
 
 ---
 
 ### Main Skill
-1. Javascript : vanilla JS, ES6, regexp, funcitonal progrmming, object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass ...)
+1. Javascript : Vanilla JS, ES6, Regexp, Dom manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass, code obfuscation ...)
 2. React : react-router, material-ui
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
-4. Laravel : IOC knowledge, DI knowledge, TDD programming, DDD programming, security programming, RESTful API
+4. Laravel : IOC knowledge, DI knowledge, TDD programming, DDD programming, Security programming, RESTful API
 5. Golang : gin framework
 6. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, S3, athena, cloud front, route53
 7. Database : MySQL, Redis, SQLite
-8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server), let's encrypt (SSL certification)
+8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server, static contents server), let's encrypt (SSL certification)
 9. Css : sass, animation using transition, css selector, responsive web
 
 ---
@@ -26,8 +26,7 @@
 ### Experience (student)
 - Java
 - C
-- PhotoShop
-- AfterEffect
+- Adobe tools (PhotoShop, AfterEffect)
 
 ### Experience (capstone design)
 - Aduino
