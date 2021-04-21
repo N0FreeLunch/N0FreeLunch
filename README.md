@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @N0FreeLunch
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning functional js, functional react, laravel, golang
+- 🌱 I’m currently learning Functional JS, functional ReactJS, Laravel, Golang, Agile software development
 
 ---
 
-### Skill
+### Main Skill
 1. JAVASCRIPT : vanilla JS, ES6, regexp, funcitonal progrmming, object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass ...)
 2. react : react-router, material-ui
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
@@ -18,37 +18,56 @@
 ---
 
 ### Experience
-Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
+- Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
+- JS(nodejs) : express, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap ...
+- Server : apache
+- php : wordpress
 
-JS(nodejs) : express, ramdajs, pm2, nodemon, underscorejs, d3js, vuejs, videojs, jquery, bootstrap ...
+---
 
-Server : apache
+### Experience (student)
+- java
+- c lang
+
+### Experience (Capstone Design)
+- aduino
+- cordova mobile application development
+- bluetooth 4.0 transmission protocol
 
 ---
 
 ### Future plan
-Elixir : To improve pure functional programming skill, To understand actor model
+- Elixir : To improve pure functional programming skill, To understand actor model
 
-Scala : To integrate funtional programming and object oriented programming. To make pure stateless server
+- Scala : To integrate funtional programming and object oriented programming. To make pure stateless server
 
-Spark : To using functional programming with coworker
+- Spark : To using functional programming with coworker
 
-C++ : To learn avida(evolution simulator), automata theory, formal language
+- C++ : To learn avida(evolution simulator), automata theory, formal language
 
-Rust : To understand concurrency programming without garbage collector. For using web assembly.
+- Rust : To understand concurrency programming without garbage collector. For using web assembly.
 
-Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
+- Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
 
-Haskell : To learn mathematical logic and to understand turing machine
+- Haskell : To learn mathematical logic and to understand turing machine
 
-Verilog : To make system with Boolean algebra
+- Verilog : To make system with Boolean algebra
 
 
 ---
 
+### career
+- School of computer information department graduation (~ 2018.03)
+- ADtech corporation 2018.06 ~
+
+---
+
 ### Work
-- advertise server
-- advertise network
+- SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
+- Advertise server management/maintenance
+- Advertise Network developer, Advertise Network management/maintenance
+- In-house software development for adtech system
+- Web system development for people with disabilities
 
 
 
