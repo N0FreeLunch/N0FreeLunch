@@ -2,6 +2,8 @@
 - 👀 I’m interested in functional programming
 - 🌱 I’m currently learning functional js, functional react, laravel, golang
 
+---
+
 ### skill
 1. JAVASCRIPT : vanilla JS, ES6, regexp, funcitonal progrmming, object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass ...)
 2. react : react-router, material-ui
@@ -13,16 +15,16 @@
 8. web : http protocol standard, nginx(php server, django server, proxy server), let's encrypt (SSL certification)
 9. css : sass, animation using transition, css selector, responsive web
 
-
+---
 
 ### experience
-python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
+Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
 
-js(nodejs) : express, ramdajs, pm2, nodemon, underscorejs, d3js, vuejs, videojs, jquery, bootstrap ...
+JS(nodejs) : express, ramdajs, pm2, nodemon, underscorejs, d3js, vuejs, videojs, jquery, bootstrap ...
 
-server : apache
+Server : apache
 
-
+---
 
 ### future plan
 Elixir : To improve pure functional programming skill, To understand actor model
