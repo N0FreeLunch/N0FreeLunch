@@ -4,7 +4,7 @@
 
 ---
 
-### skill
+### Skill
 1. JAVASCRIPT : vanilla JS, ES6, regexp, funcitonal progrmming, object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass ...)
 2. react : react-router, material-ui
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
@@ -17,7 +17,7 @@
 
 ---
 
-### experience
+### Experience
 Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
 
 JS(nodejs) : express, ramdajs, pm2, nodemon, underscorejs, d3js, vuejs, videojs, jquery, bootstrap ...
@@ -26,7 +26,7 @@ Server : apache
 
 ---
 
-### future plan
+### Future plan
 Elixir : To improve pure functional programming skill, To understand actor model
 
 Scala : To integrate funtional programming and object oriented programming. To make pure stateless server
