@@ -41,7 +41,19 @@ Python : To learn mathematics using programming. To learn bioinformation. To und
 
 Haskell : To learn mathematical logic and to understand turing machine
 
-Verilog : To make system with bool language
+Verilog : To make system with Boolean algebra
+
+
+---
+
+### Work
+- advertise server
+- advertise network
+
+
+
+
+
 
 <!---
 N0FreeLunch/N0FreeLunch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
