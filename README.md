@@ -11,9 +11,10 @@
 4. Laravel : IOC knowledge, DI knowledge, TDD programming, DDD programming, Security programming, RESTful API
 5. Golang : gin framework
 6. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, S3, athena, cloud front, route53
-7. Database : MySQL, Redis, SQLite
+7. Database : MySQL, Redis, SQLite, mysql workbench
 8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server, static contents server), let's encrypt (SSL certification)
 9. Css : sass, animation using transition, css selector, responsive web
+10. OS : Linux(AWS AMI, ubuntu, centos), OSX
 
 ---
 
@@ -36,6 +37,7 @@
 ---
 
 ### Future plan
+- Elm : To learn functional coding style javascript, to understand redux principle. To apply compile obfuscation
 - Elixir : To improve pure functional programming skill. To understand actor model
 - Scala : To integrate funtional programming and object oriented programming. To make pure stateless server
 - Spark : To using functional programming with coworker
