@@ -13,7 +13,7 @@
 6. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, S3, athena, cloud front, route53
 7. Database : MySQL, Redis, SQLite
 8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server), let's encrypt (SSL certification)
-9. css : sass, animation using transition, css selector, responsive web
+9. Css : sass, animation using transition, css selector, responsive web
 
 ---
 
@@ -26,7 +26,7 @@
 ### Experience (student)
 - Java
 - C
-- photoshop
+- PhotoShop
 - AfterEffect
 
 ### Experience (capstone design)
@@ -56,11 +56,11 @@
 ---
 
 ### Work
-> SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
+##### SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
 - Advertise server management/maintenance (Gin, Laravel, AWS)
 - Advertise Network developer, Advertise Network management/maintenance (Gin, Laravel, AWS)
 - In-house software development for adtech system (Laravel)
-- video service web site management/maintenance (30~40TB/month traffic video contents server, 20~50GB/month web page traffic server with Laravel)
+- video service web site management/maintenance (30\~40TB\/month traffic video contents server, 30\~50GB\/month web page traffic server with Laravel)
 - Web system development for people with disabilities (Laravel and ReactJS)
 
 
