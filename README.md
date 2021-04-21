@@ -17,18 +17,26 @@
 
 ### experience
 python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
+
 js(nodejs) : express, ramdajs, pm2, nodemon, underscorejs, d3js, vuejs, videojs, jquery ...
+
 server : apache
 
 
 
 ### future plan
 elixir : To improve pure functional programming skill, To understand actor model
+
 scala : To integrate funtional programming and object oriented programming. To make pure stateless server
+
 spark : To using functional programming with coworker
+
 c++ : To learn avida(evolution simulator), automata theory, formal language
+
 rust : To understand concurrency programming without garbage collector. For using web assembly.
+
 python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
+
 haskell : To learn mathematical logic and to understand turing machine
 
 
