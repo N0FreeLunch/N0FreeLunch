@@ -71,8 +71,8 @@
 
 #### AD network development
 
-#### EC2 site web page
-- Listing item and showing similar item with picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate)
+#### E-Commercial site web page
+- Listing item and showing similar item with picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 
 #### homepage
