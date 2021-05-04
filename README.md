@@ -64,9 +64,21 @@
 - video service web site management/maintenance (30\~40TB\/month traffic video contents server, 30\~50GB\/month web page traffic server with Laravel)
 - Web system development for people with disabilities (Laravel and ReactJS)
 
+#### AD server development
+- showing advertise javascript code from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
+- crawling advertise sending report and monthly bill data from AD network. (php, nodejs)
+- maintenance web service that site owner request advertise script. (laravel)
+
+#### AD network development
+
+#### EC2 site web page
+- Listing item and showing similar item with picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate)
 
 
+#### homepage
+- Company web site (reactJS, nginx, laravel, AWS EC2, SASS, AWS lambda, AWS SES)
 
+---
 
 
 <!---
