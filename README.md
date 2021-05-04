@@ -4,7 +4,7 @@
 
 ---
 
-### Main Skill
+## Main Skill
 1. Javascript : Vanilla JS, ES6, Regexp, Dom manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass, code obfuscation ...)
 2. React : react-router, material-ui
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
@@ -13,23 +13,24 @@
 6. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, S3, athena, cloud front, route53
 7. Database : MySQL, Redis, SQLite, mysql workbench
 8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server, static contents server), let's encrypt (SSL certification)
-9. Css : sass, animation using transition, css selector, responsive web
+9. CSS : sass, animation using transition, css selector, responsive web
 10. OS : Linux(AWS AMI, ubuntu, centos), OSX
 
 ---
 
-### Experience
+## Experience
 - Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
 - JS (nodejs) : express, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap ...
 - Server : apache
 - php : wordpress
+- SaaS : conoha
 
-### Experience (student)
+## Experience (student)
 - Java
 - C
 - Adobe tools (PhotoShop, AfterEffect)
 
-### Experience (capstone design)
+## Experience (capstone design)
 - Aduino
 - Cordova mobile application development
 - Bluetooth 4.0 transmission protocol
