@@ -25,25 +25,25 @@
 - php : wordpress
 - SaaS : conoha
 
-## Experience (student)
+### Experience (student)
 - Java
 - C
 - Adobe tools (PhotoShop, AfterEffect)
 
-## Experience (capstone design)
+### Experience (capstone design)
 - Aduino
 - Cordova mobile application development
 - Bluetooth 4.0 transmission protocol
 
 ---
 
-### Future plan
+## Future plan
 - Elm : To learn functional coding style javascript, to understand redux principle. To apply compile obfuscation
 - Elixir : To improve pure functional programming skill. To understand actor model
-- Scala : To integrate funtional programming and object oriented programming. To make pure stateless server
+- Scala : To understanding integration funtional programming and object oriented programming. And to learn pure stateless server
 - Spark : To using functional programming with coworker
 - C++ : To learn avida(evolution simulator), automata theory, formal language
-- Rust : To understand concurrency programming without garbage collector. For using web assembly.
+- Rust : To understand concurrency programming without garbage collector. To learn web assembly.
 - Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
 - Haskell : To learn mathematical logic and to understand turing machine
 - Verilog : To make system with boolean algebra
@@ -51,14 +51,14 @@
 
 ---
 
-### Career
+## Career
 - School of computer information department graduation (~ 2018.03)
 - ADtech corporation 2018.06 ~
 
 ---
 
-### Work
-##### SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
+## Work
+### SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
 - Advertise server management/maintenance (Gin, Laravel, AWS)
 - Advertise Network developer, Advertise Network management/maintenance (Gin, Laravel, AWS)
 - In-house software development for adtech system (Laravel)
@@ -67,8 +67,8 @@
 
 #### AD server development
 - showing advertise javascript code from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
-- crawling advertise sending report and monthly bill data from AD network. (php, nodejs)
-- maintenance web service that site owner request advertise script. (laravel)
+- crawling advertise sending report and monthly bill data from AD network web site. (php, nodejs)
+- Maintenance web service that site owner request advertise script. (laravel)
 
 #### AD network development
 
