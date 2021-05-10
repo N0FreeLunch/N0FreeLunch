@@ -5,7 +5,7 @@
 ---
 
 ## Main Skill
-1. Javascript : Vanilla JS, ES6, Regexp, Dom manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass, code obfuscation ...)
+1. Javascript : Vanilla JS, ES6, Regexp, Dom manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...)
 2. React : react-router, material-ui, function component
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
 4. Laravel : IOC knowledge, DI knowledge, TDD programming, DDD programming, Security programming, RESTful API
@@ -61,7 +61,7 @@
 ### SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
 - Advertise server management/maintenance (Gin, Laravel, AWS)
 - Advertise Network developer, Advertise Network management/maintenance (Gin, Laravel, AWS)
-- In-house software development for adtech system (Laravel)
+- In-house software development for ADtech system (Laravel)
 - Video service web site management/maintenance (30\~40TB\/month traffic video contents server, 30\~50GB\/month web page traffic server with Laravel)
 - Web system development for people with disabilities (Laravel and ReactJS)
 
