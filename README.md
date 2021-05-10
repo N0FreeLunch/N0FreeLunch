@@ -58,7 +58,7 @@
 ---
 
 ## Work
-### SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
+### I'm SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
 - Advertise server management/maintenance (Gin, Laravel, AWS)
 - Advertise Network developer, Advertise Network management/maintenance (Gin, Laravel, AWS)
 - In-house software development for ADtech system (Laravel)
