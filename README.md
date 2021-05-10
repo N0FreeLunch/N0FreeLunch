@@ -30,7 +30,7 @@
 - C
 - Adobe tools (PhotoShop, AfterEffect)
 
-### Experience (capstone design)
+### Experience (student capstone design)
 - Aduino
 - Cordova mobile application development (android, ios)
 - Blutooth Low Energy 4.0 transmission protocol
@@ -81,7 +81,7 @@
 - Listing item and showing similar item with picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 
-#### homepage
+#### Homepage
 - Company web site (reactJS, nginx, laravel, AWS EC2, SASS, AWS lambda, AWS SES)
 
 ---
