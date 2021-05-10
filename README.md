@@ -6,15 +6,15 @@
 
 ## Main Skill
 1. Javascript : Vanilla JS, ES6, Regexp, Dom manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack(babel, corejs, sass, code obfuscation ...)
-2. React : react-router, material-ui
+2. React : react-router, material-ui, function component
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
 4. Laravel : IOC knowledge, DI knowledge, TDD programming, DDD programming, Security programming, RESTful API
-5. Golang : gin framework
+5. Golang : Gin framework
 6. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, S3, athena, cloud front, route53
-7. Database : MySQL, Redis, SQLite, mysql workbench
+7. Database : MySQL, Redis, SQLite, mysql workbench, ERDiagram
 8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server, static contents server), let's encrypt (SSL certification)
 9. CSS : sass, animation using transition, css selector, responsive web
-10. OS : Linux(AWS AMI, ubuntu, centos), OSX
+10. OS : Linux(AWS AMI, UBUNTU, CENTOS), OSX
 
 ---
 
@@ -32,20 +32,20 @@
 
 ### Experience (capstone design)
 - Aduino
-- Cordova mobile application development
-- Bluetooth 4.0 transmission protocol
+- Cordova mobile application development (android, ios)
+- Blutooth Low Energy 4.0 transmission protocol
 
 ---
 
 ## Future plan
-- Elm : To learn functional coding style javascript, to understand redux principle. To apply compile obfuscation
+- Elm : To learn functional coding style javascript, understand redux principle and apply compile obfuscation.
 - Elixir : To improve pure functional programming skill. To understand actor model
-- Scala : To understanding integration funtional programming and object oriented programming. And to learn pure stateless server
-- Spark : To using functional programming with coworker
+- Scala : To understanding integration funtional programming and object oriented programming and to learn pure stateless server.
+- Spark : To using functional programming with coworker.
 - C++ : To learn avida(evolution simulator), automata theory, formal language
-- Rust : To understand concurrency programming without garbage collector. To learn web assembly.
+- Rust : To understand concurrency programming without garbage collector and learn web assembly.
 - Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
-- Haskell : To learn mathematical logic and to understand turing machine
+- Haskell : To learn mathematical logic and understand turing machine
 - Verilog : To make system with boolean algebra
 
 
@@ -62,15 +62,20 @@
 - Advertise server management/maintenance (Gin, Laravel, AWS)
 - Advertise Network developer, Advertise Network management/maintenance (Gin, Laravel, AWS)
 - In-house software development for adtech system (Laravel)
-- video service web site management/maintenance (30\~40TB\/month traffic video contents server, 30\~50GB\/month web page traffic server with Laravel)
+- Video service web site management/maintenance (30\~40TB\/month traffic video contents server, 30\~50GB\/month web page traffic server with Laravel)
 - Web system development for people with disabilities (Laravel and ReactJS)
 
 #### AD server development
-- showing advertise javascript code from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
-- crawling advertise sending report and monthly bill data from AD network web site. (php, nodejs)
-- Maintenance web service that site owner request advertise script. (laravel)
+- Script for showing advertise from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
+- Crawling advertise sending report and monthly bill data from AD network web site. (php, nodejs)
+- Maintenance web service that site owner request advertise script. (Laravel)
 
 #### AD network development
+- AD network manager service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
+- AD network user client service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
+- AD network API server development/management/maintenance (Gin framework, connection pool, EC2)
+- AD network Batch server management/maintenance (Gin framework, connection pool, EC2)
+- AD network Serving server management/maintenance (Gin framework, connection pool, EC2, auto scale, spot instance)
 
 #### E-Commercial site web page
 - Listing item and showing similar item with picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
