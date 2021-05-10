@@ -14,7 +14,7 @@
 7. Database : MySQL, Redis, SQLite, mysql workbench, ERDiagram
 8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server, static contents server), let's encrypt (SSL certification)
 9. CSS : sass, animation using transition, css selector, responsive web
-10. OS : Linux(AWS AMI, UBUNTU, CENTOS), OSX
+10. OS : Linux(AWS AMI, Ubuntu, centOS), OSX
 
 ---
 
@@ -74,7 +74,7 @@
 - AD network manager service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
 - AD network user client service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
 - AD network API server development/management/maintenance (Gin framework, connection pool, EC2)
-- AD network Batch server management/maintenance (Gin framework, connection pool, EC2)
+- AD network Batch server management/maintenance (Gin framework, AWS Lambda)
 - AD network Serving server management/maintenance (Gin framework, connection pool, EC2, auto scale, spot instance)
 
 #### E-Commercial site web page
