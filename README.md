@@ -23,7 +23,7 @@
 - JS (nodejs) : express, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap ...
 - Server : apache
 - php : wordpress
-- SaaS : conoha
+- PaaS : conoha
 
 ### Experience (student)
 - Java
