@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N0FreeLunch
 - 👀 I’m interested in Functional programming, Concurrency programming
-- 🌱 I’m currently learning Functional JS, functional ReactJS, Laravel, Golang, Agile software development
+- 🌱 I’m currently learning Functional/OOP JS, functional ReactJS, Laravel Domain driven design, Golang, Agile software development
 
 ---
 
@@ -23,7 +23,7 @@
 - JS (nodejs) : express, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap ...
 - Server : apache
 - php : wordpress
-- PaaS : conoha
+- PaaS : conoha, conoha object storage
 
 ### Experience (student)
 - Java
@@ -33,7 +33,7 @@
 ### Experience (student capstone design)
 - Aduino
 - Cordova mobile application development (android, ios)
-- Blutooth Low Energy 4.0 transmission protocol
+- Blutooth Low Energy 4.0 (BLE 4.0) transmission protocol
 
 ---
 
@@ -86,7 +86,14 @@
 
 ---
 
+### Laravel specialist part
+- Laravel Sanctum authenticate
+- Querybuilder master
+- Collection master
+- Domain driven design (Service layer, Repository layer, Inversion Of Controll using interface, Dependancy Injection using Interface)
+- Restful API design
 
+---
 <!---
 N0FreeLunch/N0FreeLunch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
