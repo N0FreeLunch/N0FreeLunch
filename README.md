@@ -20,9 +20,9 @@
 
 ## Experience
 - Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
-- JS (nodejs) : express, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap ...
+- JS (nodejs) : express, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap, google App script ...
 - Server : apache
-- php : wordpress
+- php : wordpress (SSL, backup system)
 - PaaS : conoha, conoha object storage
 
 ### Experience (student)
@@ -66,7 +66,7 @@
 - Web system development for people with disabilities (Laravel and ReactJS)
 
 #### AD server development
-- Script for showing advertise from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
+- Script for showing advertise to media web site from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
 - Crawling advertise sending report and monthly bill data from AD network web site. (php, nodejs)
 - Maintenance web service that site owner request advertise script. (Laravel)
 
@@ -78,19 +78,23 @@
 - AD network Serving server management/maintenance (Gin framework, connection pool, EC2, auto scale, spot instance)
 
 #### E-Commercial site web page
-- Listing item and showing similar item with picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
+- Listing item and showing similar clothes item with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
+#### Web system for people with disabilities
+- (DDD programming, domain group and domain layer design, EC2 SASS, Laravel Santurm authenticate, ReactJS with Function Component)
 
 #### Homepage
 - Company web site (reactJS, nginx, laravel, AWS EC2, SASS, AWS lambda, AWS SES)
 
+
+
+
 ---
 
 ### Laravel specialist part
-- Laravel Sanctum authenticate
 - Querybuilder master
 - Collection master
-- Domain driven design (Service layer, Repository layer, Inversion Of Controll using interface, Dependancy Injection using Interface)
+- Domain driven design (Service layer, Repository layer, Inversion Of Controll, Dependancy Injection )
 - Restful API design
 
 ---
