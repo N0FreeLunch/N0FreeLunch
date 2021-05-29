@@ -85,10 +85,25 @@
 
 #### Homepage
 - Company web site A (laravel, AWS EC2, SASS, AWS lambda, AWS SES)
-- Company web site B (reactJS, nginx, google App script)
+- Company web site B (reactJS, nginx, Google App script)
 
 
+---
 
+## I’m currently learning
+### functional Javascript
+#### reason
+- functional Javascript
+#### repository
+ [functioanl JS](./functional-js)
+
+### php
+#### reason
+#### repository
+
+### laravel
+#### reason
+#### repository
 
 ---
 
