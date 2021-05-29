@@ -68,7 +68,7 @@
 #### AD server development
 - Script for showing advertise to media web site from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
 - Crawling advertise sending report and monthly bill data from AD network web site. (php, nodejs)
-- Maintenance web service that site owner request advertise script. (Laravel)
+- Maintenancing web service that site owner request advertise script. (Laravel)
 
 #### AD network development
 - AD network manager service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
@@ -81,10 +81,11 @@
 - Listing and showing similar clothes with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 #### Web system for people with disabilities
-- (DDD programming, domain group and domain layer design, EC2 SASS, Laravel Santurm authenticate, ReactJS with Function Component)
+- (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate, ReactJS with Function Component)
 
 #### Homepage
-- Company web site (reactJS, nginx, laravel, AWS EC2, SASS, AWS lambda, AWS SES)
+- Company web site A (laravel, AWS EC2, SASS, AWS lambda, AWS SES)
+- Company web site B (reactJS, nginx, google App script)
 
 
 
