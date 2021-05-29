@@ -78,7 +78,7 @@
 - AD network Serving server management/maintenance (Gin framework, connection pool, EC2, auto scale, spot instance)
 
 #### E-Commercial site web page
-- Listing item and showing similar clothes item with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
+- Listing and showing similar clothes with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 #### Web system for people with disabilities
 - (DDD programming, domain group and domain layer design, EC2 SASS, Laravel Santurm authenticate, ReactJS with Function Component)
