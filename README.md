@@ -94,31 +94,31 @@
 ### functional Javascript
 #### reason
 #### repository
- [functioanl JS](https://github.com/N0FreeLunch/functional-js)
+ - [functioanl JS](https://github.com/N0FreeLunch/functional-js)
 
 ### Javascript
 #### reason
 #### repository
-[ES6 javascript](https://github.com/N0FreeLunch/js-mordern)
+- [ES6 javascript](https://github.com/N0FreeLunch/js-mordern)
 
 ### php
 #### reason
 #### repository
-[php design pattern](https://github.com/N0FreeLunch/php-design-pattern)
-[modern php](https://github.com/N0FreeLunch/php-modern)
-[functional php](https://github.com/N0FreeLunch/php-functional)
+- [php design pattern](https://github.com/N0FreeLunch/php-design-pattern)
+- [modern php](https://github.com/N0FreeLunch/php-modern)
+- [functional php](https://github.com/N0FreeLunch/php-functional)
 
 ### laravel
 #### reason
 
 #### repository
-[laravel DDD](https://github.com/N0FreeLunch/laravel-DDD)
-[laravel reference analyze note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
+- [laravel DDD](https://github.com/N0FreeLunch/laravel-DDD)
+- [laravel document analysis note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
 
 ### golang
 #### reason
 #### repository
-[golang basic grammar](https://github.com/N0FreeLunch/go-basic)
+- [golang basic grammar](https://github.com/N0FreeLunch/go-basic)
 
 
 ### ReactJS
@@ -126,6 +126,7 @@
 - To learn functional React which is high order component, Redux
 #### repository
 [react practice](https://github.com/N0FreeLunch/react-test)
+[react doucment analysis note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
 
 
 ---
