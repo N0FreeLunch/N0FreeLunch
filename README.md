@@ -126,7 +126,7 @@
 - To learn functional React which is high order component, Redux
 #### repository
 - [react practice](https://github.com/N0FreeLunch/react-test)
-- [react doucment analysis note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
+- [react doucment analysis note](https://github.com/N0FreeLunch/React-Development-Note)
 
 
 ---
@@ -134,7 +134,7 @@
 ### Laravel specialist part
 - Querybuilder master
 - Collection master
-- Domain driven design (Service layer, Repository layer, Inversion Of Controll, Dependancy Injection )
+- Domain driven design
 - Restful API design
 
 ---
