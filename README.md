@@ -68,7 +68,7 @@
 #### AD server development
 - Script for showing advertise to media web site from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
 - Crawling advertise sending report and monthly bill data from AD network web site. (php, nodejs)
-- Maintenancing web service that site owner request advertise script. (Laravel)
+- Maintenanc web service that site owner request advertise script. (Laravel)
 
 #### AD network development
 - AD network manager service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
@@ -91,18 +91,22 @@
 ---
 
 ## I’m currently learning
-### functional Javascript
-#### reason
-#### repository
- - [functioanl JS](https://github.com/N0FreeLunch/functional-js)
 
 ### Javascript
 #### reason
+- To learn modern JS ES6, ES7, ES8...
+- To learn functional js abstraction
+- To make beautiful code
 #### repository
 - [ES6 javascript](https://github.com/N0FreeLunch/js-mordern)
+- [functioanl JS](https://github.com/N0FreeLunch/functional-js)
+- [JS-refactoring](https://github.com/N0FreeLunch/refactoring)
 
 ### php
 #### reason
+- To learn OOP abstraction programming with PHP
+- To learn functional programming in OOP language
+- Basic php programming practice without web framework 
 #### repository
 - [php design pattern](https://github.com/N0FreeLunch/php-design-pattern)
 - [modern php](https://github.com/N0FreeLunch/php-modern)
@@ -110,22 +114,28 @@
 
 ### laravel
 #### reason
-
+- To understand the maker's(Taylor Otwell) concept
+- To learn semantic abstraction using domain driven design
 #### repository
 - [laravel DDD](https://github.com/N0FreeLunch/laravel-DDD)
 - [laravel document analysis note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
 
 ### golang
 #### reason
+- To learn concurrency programming with go routine, go channel
+- To make superfast micro service, short latency response server, many request processing server
+- To learn Golang design has different design philosophy comparing other programming language
 #### repository
 - [golang basic grammar](https://github.com/N0FreeLunch/go-basic)
 
 
 ### ReactJS
 #### reason
-- To learn functional React which is high order component, Redux
+- To learn functional React which is high order component, Redux, stateless component
+- To understand user inteface architecture with functional programming (UI = view(state or store))
 #### repository
 - [react practice](https://github.com/N0FreeLunch/react-test)
+- [function component practice](https://github.com/N0FreeLunch/React-function-component)
 - [react doucment analysis note](https://github.com/N0FreeLunch/React-Development-Note)
 
 
