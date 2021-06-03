@@ -124,7 +124,7 @@
 #### reason
 - To learn concurrency programming with go routine, go channel
 - To make superfast micro service, short latency response server, many request processing server
-- To learn Golang design has different design philosophy comparing other programming language
+- To learn the reason of Golang design has different design philosophy comparing other programming language
 #### repository
 - [golang basic grammar](https://github.com/N0FreeLunch/go-basic)
 
