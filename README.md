@@ -41,7 +41,7 @@
 - Elm : To learn functional coding style javascript, understand redux principle and apply compile obfuscation.
 - Elixir : To improve pure functional programming skill. To understand actor model
 - Scala : To understanding integration funtional programming and object oriented programming and to learn pure stateless server.
-- Spark : To using functional programming with coworker.
+- Spark : To use functional programming in data engineering
 - C++ : To learn avida(evolution simulator), automata theory, formal language
 - Rust : To understand concurrency programming without garbage collector and learn web assembly.
 - Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
@@ -99,8 +99,8 @@
 - To make beautiful code
 #### repository
 - [ES6 javascript](https://github.com/N0FreeLunch/js-mordern)
-- [functioanl JS](https://github.com/N0FreeLunch/functional-js)
-- [JS-refactoring](https://github.com/N0FreeLunch/refactoring)
+- [functioanl programming](https://github.com/N0FreeLunch/functional-js)
+- [refactoring](https://github.com/N0FreeLunch/refactoring)
 
 ### php
 #### reason
@@ -108,17 +108,17 @@
 - To learn functional programming in OOP language
 - Basic php programming practice without web framework 
 #### repository
-- [php design pattern](https://github.com/N0FreeLunch/php-design-pattern)
-- [modern php](https://github.com/N0FreeLunch/php-modern)
-- [functional php](https://github.com/N0FreeLunch/php-functional)
+- [design pattern](https://github.com/N0FreeLunch/php-design-pattern)
+- [modern php grammar](https://github.com/N0FreeLunch/php-modern)
+- [functional programming](https://github.com/N0FreeLunch/php-functional)
 
 ### laravel
 #### reason
 - To understand the maker's(Taylor Otwell) concept
 - To learn semantic abstraction using domain driven design
 #### repository
-- [laravel DDD](https://github.com/N0FreeLunch/laravel-DDD)
-- [laravel document analysis note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
+- [domain driven design](https://github.com/N0FreeLunch/laravel-DDD)
+- [laravel note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
 
 ### golang
 #### reason
@@ -126,7 +126,7 @@
 - To make superfast micro service, short latency response server, many request processing server
 - To learn the reason of Golang design has different design philosophy comparing other programming language
 #### repository
-- [golang basic grammar](https://github.com/N0FreeLunch/go-basic)
+- [basic grammar](https://github.com/N0FreeLunch/go-basic)
 
 
 ### ReactJS
@@ -134,9 +134,9 @@
 - To learn functional React which is high order component, Redux, stateless component
 - To understand user inteface architecture with functional programming (UI = view(state or store))
 #### repository
-- [react practice](https://github.com/N0FreeLunch/react-test)
-- [function component practice](https://github.com/N0FreeLunch/React-function-component)
-- [react doucment analysis note](https://github.com/N0FreeLunch/React-Development-Note)
+- [react practice](https://github.com/N0FreeLunch/react-test/tree/main/src/component)
+- [function component practice](https://github.com/N0FreeLunch/React-function-component/tree/main/src/component)
+- [react note](https://github.com/N0FreeLunch/React-Development-Note)
 
 
 ---
