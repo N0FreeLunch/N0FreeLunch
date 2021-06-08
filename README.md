@@ -34,6 +34,7 @@
 - Aduino
 - Cordova mobile application development (android, ios)
 - Blutooth Low Energy 4.0 (BLE 4.0) transmission protocol
+- transmitting sensor data aduino necklace to smartphone in kindergarten service
 
 ---
 
@@ -71,17 +72,17 @@
 - Maintenanc web service that site owner request advertise script. (Laravel)
 
 #### AD network development
-- AD network manager service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
+- AD network admin service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
 - AD network user client service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
 - AD network API server development/management/maintenance (Gin framework, connection pool, EC2)
-- AD network Batch server management/maintenance (Gin framework, AWS Lambda)
+- AD network Batch server management/maintenance (AWS Lambda)
 - AD network Serving server management/maintenance (Gin framework, connection pool, EC2, auto scale, spot instance)
 
 #### E-Commercial site web page
 - Listing and showing similar clothes with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 #### Web system for people with disabilities
-- (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate, ReactJS with Function Component)
+- In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate, ReactJS with Function Component)
 
 #### Homepage
 - Company web site A (laravel, AWS EC2, SASS, AWS lambda, AWS SES)
@@ -124,14 +125,14 @@
 #### reason
 - To learn concurrency programming with go routine, go channel
 - To make superfast micro service, short latency response server, many request processing server
-- To learn the reason of Golang design has different design philosophy comparing other programming language
+- To learn the reason of Golang design has different design philosophy comparing with other programming language
 #### repository
 - [basic grammar](https://github.com/N0FreeLunch/go-basic)
 
 
 ### ReactJS
 #### reason
-- To learn functional React which is high order component, Redux, stateless component
+- To learn functional React programming using high order component, Redux, stateless component
 - To understand user inteface architecture with functional programming (UI = view(state or store))
 #### repository
 - [react practice](https://github.com/N0FreeLunch/react-test/tree/main/src/component)
