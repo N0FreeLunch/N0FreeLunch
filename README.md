@@ -116,7 +116,6 @@
 ### laravel
 #### reason
 - To understand the maker's(Taylor Otwell) concept
-- To learn semantic abstraction using domain driven design
 #### repository
 - [domain driven design](https://github.com/N0FreeLunch/laravel-DDD)
 - [laravel note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
@@ -132,7 +131,7 @@
 
 ### ReactJS
 #### reason
-- To learn functional React programming using high order component, Redux, stateless component
+- To learn functional React programming with high order component, Redux, stateless component
 - To understand user inteface architecture with functional programming (UI = view(state or store))
 #### repository
 - [react practice](https://github.com/N0FreeLunch/react-test/tree/main/src/component)
