@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N0FreeLunch
-- 👀 I’m interested in Functional programming, Concurrency programming
-- 🌱 I’m currently learning Functional/OOP JS, functional ReactJS, Laravel Domain driven design, Golang, Agile software development
+- 👀 I’m interested in programming language theory, Concurrency programming, Beautiful code
+- 🌱 I’m currently learning Functional JS, functional ReactJS, Laravel Domain driven design, Golang, Agile software development
 
 ---
 
@@ -8,13 +8,13 @@
 1. Javascript : Vanilla JS, ES6, Regexp, Dom manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...)
 2. React : react-router, material-ui, function component
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
-4. Laravel : IOC knowledge, DI knowledge, TDD programming, DDD programming, Security programming, RESTful API
+4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API
 5. Golang : Gin framework
 6. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, S3, athena, cloud front, route53
 7. Database : MySQL, Redis, SQLite, mysql workbench, ERDiagram
 8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server, static contents server), let's encrypt (SSL certification)
 9. CSS : sass, animation using transition, css selector, responsive web
-10. OS : Linux(AWS AMI, Ubuntu, centOS), OSX
+10. OS : Linux(AWS AMI, Ubuntu, CentOS), OSX
 
 ---
 
@@ -34,7 +34,7 @@
 - Aduino
 - Cordova mobile application development (android, ios)
 - Blutooth Low Energy 4.0 (BLE 4.0) transmission protocol
-- transmitting sensor data aduino necklace to smartphone in kindergarten service
+- Transmitting sensor data aduino necklace to smartphone in kindergarten service
 
 ---
 
@@ -42,7 +42,7 @@
 - Elm : To learn functional coding style javascript, understand redux principle and apply compile obfuscation.
 - Elixir : To improve pure functional programming skill. To understand actor model
 - Scala : To understanding integration funtional programming and object oriented programming and to learn pure stateless server.
-- Spark : To use functional programming in data engineering
+- Spark : To dealing data with functional programming.
 - C++ : To learn avida(evolution simulator), automata theory, formal language
 - Rust : To understand concurrency programming without garbage collector and learn web assembly.
 - Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
@@ -95,9 +95,9 @@
 
 ### Javascript
 #### reason
-- To learn modern JS ES6, ES7, ES8...
-- To learn functional js abstraction
-- To make beautiful code
+- To learn modern JS (ES6, ES7, ES8...)
+- To learn functional abstract
+- To write beautiful code
 #### repository
 - [ES6 javascript](https://github.com/N0FreeLunch/js-mordern)
 - [functioanl programming](https://github.com/N0FreeLunch/functional-js)
@@ -112,17 +112,19 @@
 - [design pattern](https://github.com/N0FreeLunch/php-design-pattern)
 - [modern php grammar](https://github.com/N0FreeLunch/php-modern)
 - [functional programming](https://github.com/N0FreeLunch/php-functional)
+- [php_note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/PHP)
 
 ### laravel
 #### reason
 - To understand the maker's(Taylor Otwell) concept
+- To understand standard php coding style
 #### repository
 - [domain driven design](https://github.com/N0FreeLunch/laravel-DDD)
-- [laravel note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note)
+- [laravel note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/Laravel/Reference)
 
 ### golang
 #### reason
-- To learn concurrency programming with go routine, go channel
+- To learn concurrency programming with go routine and channel
 - To make superfast micro service, short latency response server, many request processing server
 - To learn the reason of Golang design has different design philosophy comparing with other programming language
 #### repository
@@ -146,6 +148,25 @@
 - Collection master
 - Domain driven design
 - Restful API design
+
+---
+
+## Interest
+### python
+#### repository
+- [Django-practice1](https://github.com/N0FreeLunch/django_book)
+- [Django-practice2](https://github.com/N0FreeLunch/RestaurantShare-with-Django)
+- [Django-practice3](https://github.com/N0FreeLunch/django-excel)
+- [Django-practice4](https://github.com/N0FreeLunch/django-board)
+### RxJava, RxAndroid
+- [repository](https://github.com/N0FreeLunch/Rx-android)
+### Elm
+- [repository](https://github.com/N0FreeLunch/elm-basic)
+### Scala
+- [repository](https://github.com/N0FreeLunch/scala-start)
+### haskell
+- [repository](https://github.com/N0FreeLunch/haskel-practice)
+
 
 ---
 <!---
