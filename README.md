@@ -106,7 +106,7 @@
 ### php
 #### reason
 - To learn OOP abstraction programming with PHP
-- To learn functional programming in OOP language
+- To learn functional programming with OOP language
 - Basic php programming practice without web framework 
 #### repository
 - [design pattern](https://github.com/N0FreeLunch/php-design-pattern)
