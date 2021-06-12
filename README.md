@@ -154,7 +154,7 @@
 ## Interest
 ### python
 #### repository
-- Django practice1[1](https://github.com/N0FreeLunch/django_book) [2](https://github.com/N0FreeLunch/RestaurantShare-with-Django) [3](https://github.com/N0FreeLunch/django-excel) [4](https://github.com/N0FreeLunch/django-board)
+- Django practice [1](https://github.com/N0FreeLunch/django_book) [2](https://github.com/N0FreeLunch/RestaurantShare-with-Django) [3](https://github.com/N0FreeLunch/django-excel) [4](https://github.com/N0FreeLunch/django-board)
 ### RxJava, RxAndroid
 - [repository](https://github.com/N0FreeLunch/Rx-android)
 ### Elm
