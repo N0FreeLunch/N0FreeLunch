@@ -112,11 +112,11 @@
 - [design pattern](https://github.com/N0FreeLunch/php-design-pattern)
 - [modern php grammar](https://github.com/N0FreeLunch/php-modern)
 - [functional programming](https://github.com/N0FreeLunch/php-functional)
-- [php_note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/PHP)
+- [php note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/PHP)
 
 ### laravel
 #### reason
-- To understand the maker's(Taylor Otwell) concept
+- To understand the maker's(Taylor Otwell) concept/purpose
 - To understand standard php coding style
 #### repository
 - [domain driven design](https://github.com/N0FreeLunch/laravel-DDD)
@@ -128,7 +128,7 @@
 - To make superfast micro service, short latency response server, many request processing server
 - To learn the reason of Golang design has different design philosophy comparing with other programming language
 #### repository
-- [basic grammar](https://github.com/N0FreeLunch/go-basic)
+- [basic practice](https://github.com/N0FreeLunch/go-basic)
 
 
 ### ReactJS
@@ -154,10 +154,7 @@
 ## Interest
 ### python
 #### repository
-- [Django-practice1](https://github.com/N0FreeLunch/django_book)
-- [Django-practice2](https://github.com/N0FreeLunch/RestaurantShare-with-Django)
-- [Django-practice3](https://github.com/N0FreeLunch/django-excel)
-- [Django-practice4](https://github.com/N0FreeLunch/django-board)
+- Django practice1[1](https://github.com/N0FreeLunch/django_book) [2](https://github.com/N0FreeLunch/RestaurantShare-with-Django) [3](https://github.com/N0FreeLunch/django-excel) [4](https://github.com/N0FreeLunch/django-board)
 ### RxJava, RxAndroid
 - [repository](https://github.com/N0FreeLunch/Rx-android)
 ### Elm
