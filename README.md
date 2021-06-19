@@ -128,7 +128,7 @@
 - To make superfast micro service, short latency response server, many request processing server
 - To learn the reason of Golang design has different design philosophy comparing with other programming language
 #### repository
-- [basic practice](https://github.com/N0FreeLunch/go-basic)
+- [golang practice](https://github.com/N0FreeLunch/go-basic)
 
 
 ### ReactJS
@@ -156,7 +156,9 @@
 #### repository
 - Django practice [1](https://github.com/N0FreeLunch/django_book) [2](https://github.com/N0FreeLunch/RestaurantShare-with-Django) [3](https://github.com/N0FreeLunch/django-excel) [4](https://github.com/N0FreeLunch/django-board)
 ### RxJava, RxAndroid
-- [repository](https://github.com/N0FreeLunch/Rx-android)
+#### Repository
+- [Rx-android](https://github.com/N0FreeLunch/Rx-android)
+- [android-practice](https://github.com/N0FreeLunch/Android-practice)
 ### Elm
 - [repository](https://github.com/N0FreeLunch/elm-basic)
 ### Scala
