@@ -150,7 +150,7 @@
 
 
 ### Nginx
-### repository
+#### repository
 - [Nginx study](https://github.com/N0FreeLunch/Nginx-study/tree/main/study)
 
 ---
