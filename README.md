@@ -140,6 +140,18 @@
 - [function component practice](https://github.com/N0FreeLunch/React-function-component/tree/main/src/component)
 - [react note](https://github.com/N0FreeLunch/React-Development-Note)
 
+---
+
+## lay the ground work (go back to the basics)
+
+### shell script
+#### repository
+- [bash shell practice](https://github.com/N0FreeLunch/shellscript-practice/tree/main/practice)
+
+
+### Nginx
+### repository
+- [Nginx study](https://github.com/N0FreeLunch/Nginx-study/tree/main/study)
 
 ---
 
