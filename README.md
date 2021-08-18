@@ -20,7 +20,7 @@
 
 ## Experience
 - Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
-- JS (nodejs) : express, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap, google App script ...
+- JS (nodejs) : expressJS, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap, google App script ...
 - Server : apache
 - php : wordpress (SSL, backup system)
 - PaaS : conoha, conoha object storage
@@ -28,11 +28,10 @@
 ### Experience (student)
 - Java
 - C
-- Adobe tools (PhotoShop, AfterEffect)
 
 ### Experience (student capstone design)
 - Aduino
-- Cordova mobile application development (android, ios)
+- Cordova mobile application development
 - Blutooth Low Energy 4.0 (BLE 4.0) transmission protocol
 - Transmitting sensor data aduino necklace to smartphone in kindergarten service
 
@@ -69,7 +68,7 @@
 #### AD server development
 - Script for showing advertise to media web site from AD network. It being published in media site web page advertise area. (vanilla JS, webpack, DOM manipulate)
 - Crawling advertise sending report and monthly bill data from AD network web site. (php, nodejs)
-- Maintenanc web service that site owner request advertise script. (Laravel)
+- Maintenance web service that site owner request advertise script. (Laravel)
 
 #### AD network development
 - AD network admin service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
@@ -82,7 +81,7 @@
 - Listing and showing similar clothes with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 #### Web system for people with disabilities
-- In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate, ReactJS with Function Component)
+- In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate (session authenticate protocol for ajax), ReactJS with Function Component)
 
 #### Homepage
 - Company web site A (laravel, AWS EC2, SASS, AWS lambda, AWS SES)
@@ -117,10 +116,11 @@
 ### laravel
 #### reason
 - To understand the maker's(Taylor Otwell) concept/purpose
-- To understand standard php coding style
+- To learn standard laravel coding style
 #### repository
-- [domain driven design](https://github.com/N0FreeLunch/laravel-DDD)
-- [laravel note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/Laravel/Reference)
+- [domain driven design concept](https://github.com/N0FreeLunch/Laravel-DDD-Note)
+- [domain driven design practice](https://github.com/N0FreeLunch/laravel-DDD)
+- [laravel official document note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/Laravel/Reference)
 
 ### golang
 #### reason
@@ -152,14 +152,6 @@
 ### Nginx
 #### repository
 - [Nginx study](https://github.com/N0FreeLunch/Nginx-study/tree/main/study)
-
----
-
-### Laravel specialist part
-- Querybuilder master
-- Collection master
-- Domain driven design
-- Restful API design
 
 ---
 
