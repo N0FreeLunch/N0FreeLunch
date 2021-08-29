@@ -5,7 +5,7 @@
 ---
 
 ## Main Skill
-1. Javascript : Vanilla JS, ES6, Regexp, Dom manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...)
+1. Javascript : Vanilla JS, ES6, Regexp, DOM manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...)
 2. React : react-router, material-ui, function component
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
 4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API
@@ -81,7 +81,7 @@
 - Listing and showing similar clothes with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 #### Web system for people with disabilities
-- In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate (session authenticate protocol for ajax), ReactJS with Function Component)
+- In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate (session authenticate protocol with ajax), ReactJS with Function Component)
 
 #### Homepage
 - Company web site A (laravel, AWS EC2, SASS, AWS lambda, AWS SES)
