@@ -10,9 +10,9 @@
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm
 4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API
 5. Golang : Gin framework
-6. AWS : EC2, load balancer, auto scale, AWS lambda, RDS, cloud watch, S3, athena, cloud front, route53
+6. AWS : EC2, load balancer, spot instance, auto scale, AWS lambda, RDS, cloudwatch, S3, athena, cloudfront, route53, AWS SES/SNS, API gateway, AWS IAM
 7. Database : MySQL, Redis, SQLite, mysql workbench, ERDiagram
-8. Web knowledge : http protocol standard, nginx(php server, django server, proxy server, static contents server), let's encrypt (SSL certification)
+8. Web knowledge : http protocol standard, nginx(php server, proxy server, static contents server), SSL certification(let's encrypt)
 9. CSS : sass, animation using transition, css selector, responsive web
 10. OS : Linux(AWS AMI, Ubuntu, CentOS), OSX
 
@@ -20,9 +20,9 @@
 
 ## Experience
 - Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
-- JS (nodejs) : expressJS, ramdaJS, pm2, nodemon, underscoreJS, d3JS, vueJS, videoJS, jquery, bootstrap, google App script ...
+- JS (nodejs) : expressJS, ramdaJS, pm2, nodemon, underscoreJS, vueJS, videoJS, jquery, bootstrap ...
 - Server : apache
-- php : wordpress (SSL, backup system)
+- php : wordpress
 - PaaS : conoha, conoha object storage
 
 ### Experience (student)
@@ -52,7 +52,7 @@
 ---
 
 ## Career
-- School of computer information department graduation (~ 2018.03)
+- School of computer information department (~ 2018.03)
 - ADtech corporation 2018.06 ~
 
 ---
