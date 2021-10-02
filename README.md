@@ -53,11 +53,15 @@
 
 ## Career
 - School of computer information department (~ 2018.03)
-- ADtech corporation 2018.06 ~
+- ADtech corporation 2018.06 ~ 2021.09
+- Payment corporation 2021.10 ~
 
 ---
+## Work (Pin Tech)
 
-## Work
+
+
+## Work (AD tech)
 ### I'm SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
 - Advertise server management/maintenance (Gin, Laravel, AWS)
 - Advertise Network developer, Advertise Network management/maintenance (Gin, Laravel, AWS)
