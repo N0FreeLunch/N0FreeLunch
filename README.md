@@ -62,7 +62,7 @@
 #### House rent payment system for real estate company
 - Docker setting (To define auto webpack building and composer installing process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
-- Refactoring code using laravel-admin libray MC to MVC architecture structure (laravel DI/IOC, layer separation, EloquentORM)
+- Refactoring code using laravel-admin library MC to MVC architecture structure (laravel DI/IOC, layer separation, EloquentORM)
 
 ## Work (AD tech)
 ### I was SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
