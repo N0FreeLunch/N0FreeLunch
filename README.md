@@ -58,13 +58,14 @@
 
 ---
 ## Work (Pin Tech)
-#### estate rent payment system
+### I'm pin tech system developer
+#### house rent payment system for real estate company
 - Docker setting (To define auto webpack build and composer install process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
 - Refactoring laravel-admin libray MC to MVC architecture structure (laravel DI/IOC, layer separation, EloquentORM)
 
 ## Work (AD tech)
-### I'm SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
+### I was SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
 - Advertise server management/maintenance (Gin, Laravel, AWS)
 - Advertise Network developer, Advertise Network management/maintenance (Gin, Laravel, AWS)
 - In-house software development for ADtech system (Laravel)
