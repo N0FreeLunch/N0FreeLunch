@@ -59,8 +59,8 @@
 ---
 ## Work (Pin Tech)
 ### I'm pin tech system developer
-#### house rent payment system for real estate company
-- Docker setting (To define auto webpack build and composer install process with considering security when deploy build system)
+#### House rent payment system for real estate company
+- Docker setting (To define auto webpack building and composer installing process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
 - Refactoring laravel-admin libray MC to MVC architecture structure (laravel DI/IOC, layer separation, EloquentORM)
 
