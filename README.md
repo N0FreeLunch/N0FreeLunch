@@ -7,14 +7,14 @@
 ## Main Skill
 1. Javascript : Vanilla JS, ES6, Regexp, DOM manipulation, Functional progrmming, Object oriented programming, prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...)
 2. React : react-router, material-ui, function component
-3. PHP : php7, functional programming, object oriented progrmming, php-fpm
+3. PHP : php7, functional programming, object oriented progrmming, php-fpm, phpstorm
 4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API
 5. Golang : Gin framework
 6. AWS : EC2, load balancer, spot instance, auto scale, AWS lambda, RDS, cloudwatch, S3, athena, cloudfront, route53, AWS SES/SNS, API gateway, AWS IAM
-7. Database : MySQL, Redis, SQLite, mysql workbench, ERDiagram
+7. Database : MySQL, Redis, SQLite, ERDiagram (tool : mysql workbench, data grip)
 8. Web knowledge : http protocol standard, nginx(php server, proxy server, static contents server), SSL certification(let's encrypt)
-9. CSS : sass, animation using transition, css selector, responsive web
-10. OS : Linux(AWS AMI, Ubuntu, CentOS), OSX
+9. CSS : SASS, animation using transition, css selector, responsive web
+10. OS : Linux(AWS AMI, Ubuntu, CentOS, Debian), OSX, WSL
 
 ---
 
@@ -61,7 +61,7 @@
 #### estate rent payment system
 - Docker setting (To define auto webpack build and composer install process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
-- Refactoring laravel-admin libray MC to MVC architecture structure (laravel DI/IOC, layer separation)
+- Refactoring laravel-admin libray MC to MVC architecture structure (laravel DI/IOC, layer separation, EloquentORM)
 
 ## Work (AD tech)
 ### I'm SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
@@ -112,7 +112,7 @@
 #### reason
 - To learn OOP abstraction programming with PHP
 - To learn functional programming with OOP language
-- Basic php programming practice without web framework 
+- Basic php programming practice without web framework
 #### repository
 - [design pattern](https://github.com/N0FreeLunch/php-design-pattern)
 - [modern php grammar](https://github.com/N0FreeLunch/php-modern)
@@ -123,6 +123,7 @@
 #### reason
 - To understand the maker's(Taylor Otwell) concept/purpose
 - To learn standard laravel coding style
+- To learn framework best practice
 #### repository
 - [domain driven design concept](https://github.com/N0FreeLunch/Laravel-DDD-Note)
 - [domain driven design practice](https://github.com/N0FreeLunch/laravel-DDD)
