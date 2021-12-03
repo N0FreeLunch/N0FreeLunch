@@ -59,7 +59,7 @@
 ---
 ## Work (Pin Tech)
 #### estate rent payment system
-- docker setting (To define auto npm build and auto composer install process with considering security when deploy build time)
+- Docker setting (To define auto webpack build and composer install process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
 - Refactoring laravel-admin libray MC to MVC architecture structure (laravel DI/IOC, layer separation)
 
