@@ -58,8 +58,10 @@
 
 ---
 ## Work (Pin Tech)
-### 
-
+#### estate rent payment system
+- docker setting (To define auto npm build and auto composer install process with considering security when deploy build time)
+- HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
+- Refactoring laravel-admin libray MC to MVC architecture structure (laravel DI/IOC, layer separation)
 
 ## Work (AD tech)
 ### I'm SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
@@ -85,7 +87,7 @@
 - Listing and showing similar clothes with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
 
 #### Web system for people with disabilities
-- In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate (session authenticate protocol with ajax), ReactJS with Function Component)
+- In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate (session authenticate protocol with ajax), Laravel cache, ReactJS with Function Component)
 
 #### Homepage
 - Company web site A (laravel, AWS EC2, SASS, AWS lambda, AWS SES)
