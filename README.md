@@ -7,8 +7,8 @@
 ## Main Skill
 1. Javascript : Vanilla JS, ES6, Regexp, DOM manipulation, Functional progrmming, Object oriented programming, Prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...), event loop knowledge, callback queue knowledge, blocking/non-blocking code 
 2. React : react-router, material-ui, function component, component rendering optimization
-3. PHP : php7, functional programming, object oriented progrmming, php-fpm, phpstorm
-4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API
+3. PHP : php7, functional programming, object oriented progrmming, php-fpm, PSR, phpstorm
+4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API, EloquentORM, Lambda express with Laravel Collection
 5. Golang : Gin framework
 6. AWS : EC2, Load balancer, Spot instance, Auto scale, AWS lambda, RDS, cloudwatch, S3, Athena, Cloudfront, Route53, AWS SES/SNS, API gateway, AWS IAM
 7. Database : MySQL, Redis, SQLite, ERDiagram (tool : mysql workbench, data grip)
@@ -62,7 +62,7 @@
 #### House rent payment system for real estate company
 - Docker setting (To define auto webpack building and composer installing process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
-- Refactoring code using laravel-admin library MC to MVC architecture structure (laravel DI/IOC, layer separation, EloquentORM)
+- Refactoring code using laravel-admin library MC to MVC architecture structure (DI/IOC, Layer separation, EloquentORM)
 
 ## Work (AD tech)
 ### I was SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
