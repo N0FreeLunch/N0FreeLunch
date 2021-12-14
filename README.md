@@ -5,14 +5,14 @@
 ---
 
 ## Main Skill
-1. Javascript : Vanilla JS, ES6, Regexp, DOM manipulation, Functional progrmming, Object oriented programming, Prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...), event loop knowledge, callback queue knowledge, blocking/non-blocking code 
+1. Javascript : Vanilla JS, ES6, Regexp, DOM manipulation, Functional progrmming, Object oriented programming, Prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...), event loop knowledge, callback queue knowledge, blocking/non-blocking code
 2. React : react-router, material-ui, function component, component rendering optimization
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm, PSR, phpstorm
-4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API, EloquentORM, Lambda express with Laravel Collection
-5. Golang : Gin framework
+4. Laravel : IOC knowledge, DI knowledge, DDD programming, Security programming, RESTful API, EloquentORM, Lambda expression with Laravel Collection
+5. Golang : Gin Framework
 6. AWS : EC2, Load balancer, Spot instance, Auto scale, AWS lambda, RDS, cloudwatch, S3, Athena, Cloudfront, Route53, AWS SES/SNS, API gateway, AWS IAM
-7. Database : MySQL, Redis, SQLite, ERDiagram (tool : mysql workbench, data grip)
-8. Web knowledge : http protocol standard, nginx(php server, proxy server, static contents server), SSL certification(let's encrypt)
+7. Database : MySQL, Redis, SQLite, ERDiagram
+8. Web knowledge : HTTP protocol standard, nginx(php server, proxy server, static contents server), SSL certification(let's encrypt)
 9. CSS : SASS, animation using transition, css selector, responsive web
 10. OS : Linux(AWS AMI, Ubuntu, CentOS, Debian), OSX, WSL
 
@@ -20,7 +20,7 @@
 
 ## Experience
 - Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
-- JS (nodejs) : expressJS, ramdaJS, pm2, nodemon, underscoreJS, vueJS, videoJS, jquery, bootstrap ...
+- JS (nodejs) : expressJS, ramdaJS, pm2, nodemon, underscoreJS, VueJS, videoJS, Jquery, Bootstrap ...
 - Server : apache
 - php : wordpress
 - PaaS : conoha, conoha object storage
@@ -58,7 +58,7 @@
 
 ---
 ## Work (Pin Tech)
-### I'm pin tech system developer
+### I'm Pin tech system developer
 #### House rent payment system for real estate company
 - Docker setting (To define auto webpack building and composer installing process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
@@ -78,11 +78,11 @@
 - Maintenance web service that site owner request advertise script. (Laravel)
 
 #### AD network development
-- AD network admin service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
-- AD network user client service development/management/maintenance (Laravel, vueJS, vue-router, jwt protocol)
+- AD network admin service development/management/maintenance (Laravel, VueJS, vue-router, JWT protocol)
+- AD network user client service development/management/maintenance (Laravel, vueJS, vue-router, JWT protocol)
 - AD network API server development/management/maintenance (Gin framework, connection pool, EC2)
 - AD network Batch server management/maintenance (AWS Lambda)
-- AD network Serving server management/maintenance (Gin framework, connection pool, EC2, auto scale, spot instance)
+- AD network Serving server management/maintenance (Gin framework, connection pool, EC2, auto scale, Spot instance)
 
 #### E-Commercial site web page
 - Listing and showing similar clothes with clothes picture using artificial intelligent API in EC site. (vanilla JS, webpack, SASS, functional programming, DOM manipulate, IE compatibility, coreJS, babel-polyfill)
@@ -91,8 +91,8 @@
 - In-house web system (DDD programming, domain group and domain layer design, EC2, SASS, Laravel Santurm authenticate (session authenticate protocol with ajax), Laravel cache, ReactJS with Function Component)
 
 #### Homepage
-- Company web site A (laravel, AWS EC2, SASS, AWS lambda, AWS SES)
-- Company web site B (reactJS, nginx, Google App script)
+- Company web site A (Laravel, AWS EC2, SASS, AWS lambda, AWS SES)
+- Company web site B (ReactJS, Nginx, Google App script)
 
 
 ---
@@ -106,8 +106,8 @@
 - To write beautiful code
 #### repository
 - [ES6 javascript](https://github.com/N0FreeLunch/js-mordern)
-- [functioanl programming](https://github.com/N0FreeLunch/functional-js)
-- [refactoring](https://github.com/N0FreeLunch/refactoring)
+- [Functioanl programming](https://github.com/N0FreeLunch/functional-js)
+- [Refactoring](https://github.com/N0FreeLunch/refactoring)
 
 ### php
 #### reason
@@ -115,9 +115,9 @@
 - To learn functional programming with OOP language
 - Basic php programming practice without web framework
 #### repository
-- [design pattern](https://github.com/N0FreeLunch/php-design-pattern)
+- [Design pattern](https://github.com/N0FreeLunch/php-design-pattern)
 - [modern php grammar](https://github.com/N0FreeLunch/php-modern)
-- [functional programming](https://github.com/N0FreeLunch/php-functional)
+- [Functional programming](https://github.com/N0FreeLunch/php-functional)
 - [php note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/PHP)
 
 ### laravel
@@ -126,15 +126,15 @@
 - To learn standard laravel coding style
 - To learn framework best practice
 #### repository
-- [domain driven design concept](https://github.com/N0FreeLunch/Laravel-DDD-Note)
-- [domain driven design practice](https://github.com/N0FreeLunch/laravel-DDD)
-- [laravel official document note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/Laravel/Reference)
+- [Domain driven design concept](https://github.com/N0FreeLunch/Laravel-DDD-Note)
+- [Domain driven design practice](https://github.com/N0FreeLunch/laravel-DDD)
+- [Laravel official document note](https://github.com/N0FreeLunch/PHP_Laravel-Development-Note/tree/main/Laravel/Reference)
 
 ### golang
 #### reason
 - To learn concurrency programming with go routine and channel
 - To make superfast micro service, short latency response server, many request processing server
-- To learn the reason of Golang design has different design philosophy comparing with other programming language
+- To learn the reason of Golang design has different design philosophy comparing with other programming languages
 #### repository
 - [golang practice](https://github.com/N0FreeLunch/go-basic)
 
