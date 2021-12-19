@@ -44,7 +44,7 @@
 - Spark : To dealing data with functional programming.
 - C++ : To learn avida(evolution simulator), automata theory, formal language
 - Rust : To understand concurrency programming without garbage collector and learn web assembly.
-- Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning, To understand [Alphafold] (https://github.com/deepmind/alphafold)
+- Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning, To understand [Alphafold](https://github.com/deepmind/alphafold)
 - Haskell : To learn mathematical logic and understand Turing machine
 - Verilog : To make a system with boolean algebra
 
@@ -164,7 +164,7 @@
 
 ### SQL
 #### repository
-- [sql-practice] (https://github.com/N0FreeLunch/sql-practice)
+- [sql-practice](https://github.com/N0FreeLunch/sql-practice)
 
 
 ---
