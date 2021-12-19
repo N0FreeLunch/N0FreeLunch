@@ -44,9 +44,9 @@
 - Spark : To dealing data with functional programming.
 - C++ : To learn avida(evolution simulator), automata theory, formal language
 - Rust : To understand concurrency programming without garbage collector and learn web assembly.
-- Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning
-- Haskell : To learn mathematical logic and understand turing machine
-- Verilog : To make system with boolean algebra
+- Python : To learn mathematics using programming. To learn bioinformation. To understand semantic information theory with machine learning, To understand [Alphafold] (https://github.com/deepmind/alphafold)
+- Haskell : To learn mathematical logic and understand Turing machine
+- Verilog : To make a system with boolean algebra
 
 
 ---
@@ -61,8 +61,9 @@
 ### I'm Pin tech system developer
 #### House rent payment system for real estate company
 - Docker setting (To define auto webpack building and composer installing process with considering security when deploy build system)
-- HTTP request/response logging system (Laravel middleware, singleton pattern, laravel event/listener)
+- HTTP request/response logging system (Laravel middleware, singleton pattern, Laravel Event/Listener)
 - Refactoring code using laravel-admin library MC to MVC architecture structure (DI/IOC, Layer separation, EloquentORM)
+- Download a large volume CSV (Laravel Eloquent Chunk)
 
 ## Work (AD tech)
 ### I was SSP (supply side platform) ADtech system developer, challenging DSP (demand side platform) part
@@ -160,6 +161,11 @@
 ### Nginx
 #### repository
 - [Nginx study](https://github.com/N0FreeLunch/Nginx-study/tree/main/study)
+
+### SQL
+#### repository
+- [sql-practice] (https://github.com/N0FreeLunch/sql-practice)
+
 
 ---
 
