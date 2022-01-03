@@ -157,7 +157,6 @@
 #### repository
 - [bash shell practice](https://github.com/N0FreeLunch/shellscript-practice/tree/main/practice)
 
-
 ### Nginx
 #### repository
 - [Nginx study](https://github.com/N0FreeLunch/Nginx-study/tree/main/study)
@@ -170,6 +169,8 @@
 ---
 
 ## Interest
+### UI/UX study
+- [UI\/UX-study](https://github.com/N0FreeLunch/UIUX-study)
 ### python
 #### repository
 - Django practice [1](https://github.com/N0FreeLunch/django_book) [2](https://github.com/N0FreeLunch/RestaurantShare-with-Django) [3](https://github.com/N0FreeLunch/django-excel) [4](https://github.com/N0FreeLunch/django-board)
