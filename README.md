@@ -10,7 +10,7 @@
 3. PHP : php7, functional programming, object oriented progrmming, php-fpm, PSR, phpstorm
 4. Laravel : IOC knowledge, DI knowledge, DDD programming, Secure programming, RESTful API, EloquentORM, Lambda expression with Laravel Collection
 5. Golang : Gin Framework
-6. AWS : EC2, Load balancer, Spot instance, Auto scale, AWS lambda, RDS, cloudwatch, S3, Athena, Cloudfront, Route53, AWS SES/SNS, API gateway, AWS IAM
+6. AWS : EC2, ALB, Spot Instance, Auto scale, AWS lambda, RDS, cloudwatch, S3, AWS Athena, Cloudfront, Route53, AWS SES/SNS, API gateway, AWS IAM
 7. Database : MySQL, Redis, SQLite, ERDiagram
 8. Web knowledge : HTTP protocol standard, nginx(php server, proxy server, static contents server), SSL certification(let's encrypt), Secure coding(XSS, SQL Injection, Code Injection, CSRF, TLS)
 9. CSS : SASS, animation using transition, css selector, responsive web
