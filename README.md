@@ -5,10 +5,10 @@
 ---
 
 ## Main Skill
-1. Javascript : Vanilla JS, ES6, Regexp, DOM manipulation, Functional progrmming, Object oriented programming, Prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...), event loop knowledge, callback queue knowledge, blocking/non-blocking code
+1. Javascript : Vanilla JS, ES6, Regexp, DOM manipulation, Functional progrmming, Object oriented programming, Prototype knowledge, nodejs, webpack (babel, corejs, sass, code obfuscation ...), event-loop/callback-queue knowledge, blocking/non-blocking sync/async coding
 2. React : react-router, material-ui, function component, component rendering optimization
-3. PHP : php7, functional programming, object oriented progrmming, php-fpm, PSR, phpstorm
-4. Laravel : IOC knowledge, DI knowledge, DDD programming, Secure programming, RESTful API, EloquentORM, Lambda expression with Laravel Collection
+3. PHP : php7, functional programming, object oriented progrmming, php-fpm, PSR
+4. Laravel : IOC knowledge, DI knowledge, DDD programming, Secure coding, RESTful API, EloquentORM, Lambda expression using Laravel Collection
 5. Golang : Gin Framework
 6. AWS : EC2, ALB, Spot Instance, Auto scale, AWS lambda, RDS, cloudwatch, S3, AWS Athena, Cloudfront, Route53, AWS SES/SNS, API gateway, AWS IAM
 7. Database : MySQL, Redis, SQLite, ERDiagram
