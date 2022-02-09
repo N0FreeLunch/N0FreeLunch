@@ -62,7 +62,7 @@
 #### House rent payment system for real estate company
 - Docker setting (To define auto webpack building and composer installing process with considering security when deploy build system)
 - HTTP request/response logging system (Laravel middleware, singleton pattern, Laravel Event/Listener)
-- Refactoring code using laravel-admin library MC to MVC architecture structure (DI/IOC, Layer separation, EloquentORM)
+- Refactoring code using laravel-admin library MC to MVC architecture structure (Layer separation, EloquentORM, interface, abstract class)
 - Download a large volume CSV (Laravel Eloquent Chunk)
 
 ## Work (AD tech)
