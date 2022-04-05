@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @N0FreeLunch
 - 👀 I’m interested in programming language theory, Concurrency programming, Beautiful code, Semantic abstract
 - 🌱 I’m currently learning Functional JS, functional ReactJS, Laravel Domain driven design, Golang, Agile software development
-
+- ⭐ I’m a specialist to deal the complexity of software
 ---
 
 ## Main Skill
