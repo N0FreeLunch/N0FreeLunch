@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N0FreeLunch
 - 👀 I’m interested in programming language theory, Concurrency programming, Beautiful code, Semantic abstract
-- 🌱 I’m currently learning Domain driven design with function composition and JS, Functional UI architecture with ReactJS, Laravel Domain driven design, Golang, Agile software development
+- 🌱 I’m currently learning Domain driven design with function composition (JS), Functional UI architecture with ReactJS, Laravel Domain driven design, Golang, Agile software development
 - ⭐ I’m a specialist to deal the complexity of software
 ---
 
@@ -21,9 +21,8 @@
 ## Experience
 - Python : django, gunicorn , numpy, pandas, keras, jupyter notebook, pyplot ...
 - JS (nodejs) : expressJS, ramdaJS, pm2, nodemon, underscoreJS, VueJS, videoJS, Jquery, Bootstrap ...
-- Server : apache
-- php : wordpress
-- PaaS : conoha, conoha object storage
+- Data visualization : P5JS, D3JS
+- etc : wordpress, object storage
 
 ### Experience (student)
 - Java
