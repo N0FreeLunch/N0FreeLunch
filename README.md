@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N0FreeLunch
 - 👀 I’m interested in programming language theory, Concurrency programming, Beautiful code, Semantic abstract
-- 🌱 I’m currently learning Functional JS, functional ReactJS, Laravel Domain driven design, Golang, Agile software development
+- 🌱 I’m currently learning Domain driven design with function composition and JS, Functional UI architecture with ReactJS, Laravel Domain driven design, Golang, Agile software development
 - ⭐ I’m a specialist to deal the complexity of software
 ---
 
@@ -11,10 +11,10 @@
 4. Laravel : IOC knowledge, DI knowledge, DDD programming, Secure coding, RESTful API, EloquentORM, Lambda expression using Laravel Collection
 5. Golang : Gin Framework
 6. AWS : EC2, ALB, Spot Instance, Auto scale, AWS lambda, RDS, cloudwatch, S3, AWS Athena, Cloudfront, Route53, AWS SES/SNS, API gateway, AWS IAM, Elastic Cache
-7. Database : MySQL, Redis, SQLite, ERDiagram
-8. Web knowledge : HTTP protocol standard, nginx(php server, proxy server, static contents server), SSL certification(let's encrypt), Web security(XSS, SQL Injection, Code Injection, CSRF, TLS)
+7. Database : MySQL, Redis, SQLite, postgreSQL, ERDiagram
+8. Web knowledge : HTTP protocol standard, nginx(php server, proxy server, static contents server), SSL certification(let's encrypt), Web security(XSS, SQL Injection, Code Injection, CSRF, TLS ...)
 9. CSS : SASS, animation using transition, css selector, responsive web
-10. OS : Linux(AWS AMI, Ubuntu, CentOS, Debian), OSX, WSL
+10. OS : Linux(AMI, Ubuntu, CentOS, Debian), OSX, WSL
 
 ---
 
